@@ -155,7 +155,7 @@ automl_config = AutoMLConfig(
 ```
 With this configuration the AutoML task was executed.
 
-The best solution was a VotingEnsemble model. This algorithm combines several different algorithms and takes the majority of the votes. The result is a very robust model. These are the chosen alogrithms and their specific weights:
+The best solution was a VotingEnsemble model. This algorithm combines several different algorithms and takes the majority of the votes. The result is a very robust model. These are the chosen algorithms and their specific weights:
 
 
 ```
